@@ -1,7 +1,4 @@
-# global-clinical-trial-trends-2020-2025
-Data-driven analysis of global clinical trial trends (2020–2025)
-
-# Global Clinical Trial Trends (2020–2025)
+# Global Clinical Trial Trends (2015–2025)
 
 This repository presents a **data analytics project** exploring **global clinical trial activity (2020–2025)** using open data from [ClinicalTrials.gov](https://clinicaltrials.gov/).  
 The project applies **Python-based data collection, processing, and visualization** to reveal research and innovation patterns across disease areas, trial phases, and sponsors.
