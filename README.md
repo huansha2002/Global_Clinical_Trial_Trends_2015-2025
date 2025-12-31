@@ -40,6 +40,23 @@ The project applies **Python-based data collection, processing, and visualizatio
 
 ---
 
+## Visualization Summary
+
+**Module 1 — Global trial volume (2015–2025)**
+- ![Module 1](figures/global_trials_totalcount_by_year_2015_2025.png)
+
+**Module 3 — Therapeutic area distribution**
+- ![Module 3](figures/module3_area_distribution_excluding_other.png)
+
+**Module 4 — Share change / volatility / YoY jump**
+- ![Module 4](figures/module4_share_change_top5_up_down_2015_2025.png)
+
+**Module 5 — Transparency & missingness**
+- ![Module 5](figures/module5_missingness_trends_2015_2025.png)
+- ![Module 5](figures/module5_results_timeliness_cohort.png)
+
+---
+
 ## Author
 **Dr. Hanjing Wu**  
 Ph.D. in Bioengineering | M.S. Candidate in Computer Science, Syracuse University  
