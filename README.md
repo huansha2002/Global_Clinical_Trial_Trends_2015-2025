@@ -1,29 +1,28 @@
 # Global Clinical Trial Trends (2015–2025)
 
-This repository presents a **data analytics project** exploring **global clinical trial activity (2020–2025)** using open data from [ClinicalTrials.gov](https://clinicaltrials.gov/).  
-The project applies **Python-based data collection, processing, and visualization** to reveal research and innovation patterns across disease areas, trial phases, and sponsors.
+This repository presents a **data analytics project** exploring **global clinical trial activity (2015–2025)** using open data from [ClinicalTrials.gov](https://clinicaltrials.gov/).  
+The project applies **Python-based data collection, processing, and visualization** to reveal research and innovation patterns across disease areas, trial operations, and transparency indicators.
 
 ---
 
 ## Objectives
-- Retrieve data from **ClinicalTrials.gov v2 API**  
-- Analyze **yearly registration trends** (2020–2025)  
-- Compare **country-level distributions**  
-- Classify by **therapeutic area** and **trial phase**  
-- Explore **sponsor type and study status**  
-- Conduct a **case study** on *Rheumatoid Arthritis*
+- Retrieve data from **ClinicalTrials.gov v2 API**
+- Analyze **yearly registration trends** (2015–2025)
+- Compare **country-level distributions**
+- Classify by **therapeutic area** and track changes over time
+- Quantify **growth / decline / volatility** of therapeutic areas
+- Evaluate **registration completeness** and **results reporting timeliness**
 
 ---
 
 ## Modules
 | # | Title | Focus |
 |:-:|--------|--------|
-| **01** | Global Trends by Year | Annual registration volume (2020–2025) |
-| **02** | Country Distribution | Trial counts by country and region |
-| **03** | Therapeutic Area Overview | Classification by disease field |
-| **04** | Phase and Status Dynamics | Comparison of trial phase vs. completion status |
-| **05** | Sponsor Landscape | Analysis of industry vs. academic sponsors |
-| **06** | Case Study: Rheumatoid Arthritis | Deep dive into autoimmune trial activity |
+| **01** | Global Trends by Year | Total registrations by year (2015–2025) |
+| **02** | Regional Distribution & Collaboration | Trial distribution by country/region |
+| **03** | Therapeutic Area Trends & Disease Focus | Therapeutic area classification + yearly shares (sampled) |
+| **04** | Therapeutic Area Dynamics & Growth | Which areas gained/lost share; volatility and jumps |
+| **05** | Registration Completeness & Transparency Trends | Missing fields + results reporting timeliness |
 
 ---
 
